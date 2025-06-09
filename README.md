@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahadibya2005@gmail.com**
 
-- 📄 Know about my experiences [will update it later](will update it later)
+- 📄 Know about my experiences [will update it later]
 
 - ⚡ Fun fact **I am very passionate with what I want**
 
