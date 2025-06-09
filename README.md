@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahadibya2005@gmail.com**
 
-- 📄 Know about my experiences [will update it later]
+- 📄 Know about my experiences [will update it later](will update it later)
 
 - ⚡ Fun fact **I am very passionate with what I want**
 
@@ -24,8 +24,7 @@
 <a href="https://www.hackerrank.com/dibya_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dibya_saha" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dibya_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dibya_saha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dibya_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dibya_saha" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sahadibbyws" target="blank"><
-img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahadibbyws" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sahadibbyws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahadibbyws" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +33,6 @@ img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-pro
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibya-saha&show_icons=true&locale=en&layout=compact" alt="dibya-saha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibya-saha&show_icons=true&locale=en" alt="dibya-saha" /></p>
+
 
 
