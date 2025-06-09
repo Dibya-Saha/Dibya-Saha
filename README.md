@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dibya Saha</h1>
 <h3 align="center">an undergrad CS student in BUET</h3>
-<img align="center" alt="Coding" width="100%" src="https://24.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif">
+<img align="center" alt="Coding" width="60%" src="https://24.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif">
 
 
 <p align="left"
