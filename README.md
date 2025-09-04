@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibya Saha</h1>
-<h3 align="center">an undergrad CS student in BUET</h3>
+<h3 align="center">an undergrad CS student at BUET</h3>
 <img align="right" alt="Coding" width="1000" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya-saha&label=Profile%20views&color=0e75b6&style=flat" alt="dibya-saha" /> </p>
