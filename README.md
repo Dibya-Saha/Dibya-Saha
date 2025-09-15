@@ -6,17 +6,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibya-saha" alt="dibya-saha" /></a> </p>
 
-- 🔭 I’m currently working on [Game Project](https://github.com/Dibya-Saha/Game-Project-.git)
+- # I’m currently working on
+- #### 1. JavaScrpit ,Node.js,React,Tailwind CSS
+- #### 2. Rest APIs,Express.js
+- #### 3. DataBase - MongoDB
+- #### 4.OOPs in JAVA and JAVAFX framework with fxml and other libraries and framework related to front and back End
+- #### Open Source Contributions
 
-- 🌱 I’m currently learning **C,C++**
+
+- # Competitive Programming
+- #### Interested in Graph,Tree,Hashing,Collection frameworks(JAVA),DP,Greedy Algo,Devide N Conquer,Heap,Trie
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dibya-Saha](https://github.com/Dibya-Saha)
-
 - 📫 How to reach me **sahadibya2005@gmail.com**
-
-- 📄 Know about my experiences [will update it later](will update it later)
-
-- ⚡ Fun fact **I am very passionate with what I want**
+- ⚡ Fun fact 
+### 1. Not talented But Hard Working 
+### 2. Knowing the unKnown 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
