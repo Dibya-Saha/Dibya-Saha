@@ -15,7 +15,7 @@
 
 
 - # Competitive Programming
-- #### Interested in Graph, Tree, Hashing, Collection frameworks(JAVA), DP, Greedy Algo, Devide N Conquer, Heap, Trie, BST
+- #### Interested in Graph, Tree, Hashing, DP, Greedy Algo,BST,Sliding Window,Priority Queue,Sorting,Devide N Conquer, Heap, Trie
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dibya-Saha](https://github.com/Dibya-Saha)
 - 📫 How to reach me **sahadibya2005@gmail.com**
