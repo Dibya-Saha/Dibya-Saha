@@ -17,9 +17,9 @@
 - # Competitive Programming
 - #### Interested in Graph,DP,Backtracking,Array,BS,BST,Tree,Heap,Hashing, Greedy Algo,Sliding Window,Priority Queue,Sorting,Devide N Conquer,Trie
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dibya-Saha](https://github.com/Dibya-Saha)
-- 📫 How to reach me **sahadibya2005@gmail.com**
-- ⚡ Fun fact 
+- #### Here is my PortFolio Website    https://dibya-saha.github.io/
+- #### How to reach me **sahadibya2005@gmail.com**
+- # Fun fact 
 #### 1. Not talented But Hard Working 
 #### 2. Knowing the unKnown 
 
